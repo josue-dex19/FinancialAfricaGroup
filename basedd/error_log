@@ -1,0 +1,1 @@
+[17-May-2022 17:41:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u302706399/domains/tradefairoic.com/public_html/basedd/insertSouscri.php on line 7
